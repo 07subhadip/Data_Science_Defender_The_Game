@@ -4,7 +4,7 @@ A retro-style space shooter built with Python. Defend your server against data v
 
 ## 🎮 Play Online
 
-[Play on Itch.io](https://itch.io) _(Replace this text with your actual itch.io link later)_
+[Play on Itch.io](https://subhadip-hensh.itch.io/data-science-defender-the-game)
 
 ## 🛠️ Tech Stack
 
